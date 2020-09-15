@@ -16,7 +16,7 @@ Montana State University Library also recommends several disciplinary repositori
 
 ### 3. How would using GitHub help make your data/code align with FAIR protocols?
 
-GitHub first helps make my data/code more findable, accessible, and re-usable. It gives me a place where I can publish my code/data and where someone else could find it by searching via key words or topics. By being able to upload the data and code, it means that someone else can also potentially re-use it for other types of analyses. Overall, being able to do these things would help make my data more aligned with FAIR protocols.
+GitHub helps make my data/code more findable, accessible, and re-usable. It gives me a place where I can publish my code/data and where someone else could find it by searching via key words or topics. By being able to upload the data and code, it means that someone else can also potentially re-use it for other types of analyses. Overall, being able to do these things would help make my data more aligned with FAIR protocols.
 
 ### 4. What are the advantages of making your data/code more widely accessible?
 The advantages of making my data/code more widely accessible is that it allows someone else to build off what I have done, to do similiar analyses (using the code), or to do a whole new analysis that incorporates some of the data that was collected. It could also allow for collaborations in building code for analyses. All of this allows more research/discoveries to occur and for science to move forward.
